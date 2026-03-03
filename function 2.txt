@@ -1,5 +1,2 @@
 funcionalidade 2
 
-testando
-
-mostrar
